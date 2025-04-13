@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/SadguruTrading/static/css/main.9452bf79.css",
-    "main.js": "/SadguruTrading/static/js/main.a6460fd4.js",
+    "main.js": "/SadguruTrading/static/js/main.0d809983.js",
     "static/js/453.0260a464.chunk.js": "/SadguruTrading/static/js/453.0260a464.chunk.js",
     "static/media/walnutlghd.png": "/SadguruTrading/static/media/walnutlghd.119d2c8e7d90b47428fd.png",
     "static/media/World-Map.png": "/SadguruTrading/static/media/World-Map.4d1ccf7912ee1c5b660e.png",
@@ -46,11 +46,11 @@
     "static/media/slick.woff": "/SadguruTrading/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/SadguruTrading/index.html",
     "main.9452bf79.css.map": "/SadguruTrading/static/css/main.9452bf79.css.map",
-    "main.a6460fd4.js.map": "/SadguruTrading/static/js/main.a6460fd4.js.map",
+    "main.0d809983.js.map": "/SadguruTrading/static/js/main.0d809983.js.map",
     "453.0260a464.chunk.js.map": "/SadguruTrading/static/js/453.0260a464.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9452bf79.css",
-    "static/js/main.a6460fd4.js"
+    "static/js/main.0d809983.js"
   ]
 }
