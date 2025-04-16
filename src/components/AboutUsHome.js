@@ -36,13 +36,13 @@ const AboutUsHome = () => {
 
         <motion.div initial="hidden" animate="visible" variants={textVariants}>
           <Typography variant="h3" sx={{ fontWeight: "bold" }}>
-            WhiteOx Sourcing
+            Shree Sadguru
           </Typography>
         </motion.div>
 
         <motion.div initial="hidden" animate="visible" variants={textVariants}>
           <Typography variant="body1" sx={{ mt: 2, mb: 4 }}>
-            WhiteOx Sourcing is a reputed & reliable Merchant Exporter, established and backed by a 3rd generation business house. We believe that business grows on faith & trust, along with commitment & passion. We export products with a complete check on Quality, Vendor Scrutinization and Traceability. We offer products/produce to our clients, with a complete check on all parameters of product specifications. Our experienced team is equipped to source the best products at the best price in the best timelines.
+            Shree Sadguru is a reputed & reliable Merchant Exporter, established and backed by a 3rd generation business house. We believe that business grows on faith & trust, along with commitment & passion. We export products with a complete check on Quality, Vendor Scrutinization and Traceability. We offer products/produce to our clients, with a complete check on all parameters of product specifications. Our experienced team is equipped to source the best products at the best price in the best timelines.
           </Typography>
         </motion.div>
 
